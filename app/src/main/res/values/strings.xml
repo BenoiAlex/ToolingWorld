@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tooling World</string>
+
+    <string name="login_field_required">field_required</string>
+    <string name="login_invalid_email">invalid email</string>
+    <string name="login_invalid_password">invalid password</string>
+    <string name="login_incorrect_password">incorrect password</string>
+
+</resources>
